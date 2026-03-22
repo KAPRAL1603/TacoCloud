@@ -18,3 +18,5 @@ Spring Boot web application for designing and ordering tacos.
 1. Open project in IntelliJ IDEA
 2. Run TacoCloudApplication.java
 3. Open http://localhost:8080
+## Demo
+![App Screenshot](src/main/resources/static/images/TacoCloud.jpg)
